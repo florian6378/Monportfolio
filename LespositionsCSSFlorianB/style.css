@@ -1,0 +1,506 @@
+#background{background-color: lightgreen;
+    width: 100%;
+    height: 250PX;
+
+}
+
+.EXO-1
+
+{
+    position:relative
+}
+
+.carré{
+    width: 150px;
+	height: 150px;
+	background:lightgreen;
+    display:inline-block;
+    position: static;
+    vertical-align: top;
+    
+    }
+
+.carré2{
+    width: 150px;
+	height: 150px;
+    background: blue;
+    display: inline-block;
+    position: static;
+    
+
+    }
+
+.carré3{
+    width: 150px;
+	height: 150px;
+    background: green;
+    display: inline-block;
+    position: static;
+    
+}
+
+.carré4{
+    width: 150px;
+	height: 150px;
+    background: red;
+    display: inline-block;
+    position: static;
+   
+}
+
+p
+
+{
+    
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align:center
+}
+
+
+.carre5 {
+    width:150px;
+    height:150px;
+    
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+
+}
+
+.carre6 {
+    width:150px;
+    height:150px;
+    background: blue;
+    display: inline-block;
+    position: relative;
+
+}
+
+.carre7 {
+    width:150px;
+    height:150px;
+    background: green;
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+}
+
+ .carre8 {
+    width:150px;
+    height:150px;
+    background: red;
+    display: inline-block;
+    position: absolute;
+ }
+
+ #background2
+
+ {
+    position: relative;
+ }
+  
+ 
+ .EXO-2
+
+ {
+    position:relative
+ }
+ 
+ 
+ #background3
+ 
+ {  background-color: plum;
+    width: 600px;
+    height: 300px;
+    position: relative;
+ 
+
+    
+ }
+
+ .EXO-3
+
+ {
+    position: relative;
+ }
+
+ .grandcarrerose1
+
+ {
+    width: 150px;
+    height: 150px;
+    background: plum;
+    display: inline-block;
+    position:relative;
+    vertical-align: bottom;
+
+ }
+
+ .grandcarrerouge1
+
+ {
+    width: 150px;
+    height: 150px;
+    background: red;
+    display: inline-block;
+    position: relative;
+ }
+
+ .grandcarrerose2 
+
+ {
+    width: 150px;
+    height: 150px;
+    background: plum;
+    display: inline-block;
+    position: relative;
+    
+ }
+
+ .grandcarrerose2 p
+
+ {
+    color:green;
+    text-align: center;
+    z-index: index 2;
+    right:28px;
+    text-align: center;
+    
+    
+    
+ }
+
+ .grandcarrevert1
+
+ {
+    width: 150px;
+    height: 150px;
+    background:green;
+    display: inline-block;
+    position:relative;
+ }
+
+ .grandcarrerose3
+
+ {
+    width: 150px;
+    height: 150px;
+    background: plum;
+    display: inline-block;
+    position:relative;
+    bottom: 150px;
+ }
+
+ .grandcarrerose4, .petitcarrebleu, .petitcarrevert, .petitcarrerouge
+
+
+ {
+    width: 150px;
+    height: 150px;
+    background: plum;
+    display: inline-block;
+    position:absolute;
+    top: 150px;
+    }
+
+
+.grandcarrerose4 div 
+
+{
+    text-align: center;
+    margin: 9px;
+    
+}
+ 
+.petitcarrebleu{
+
+
+
+width: 30px;
+height: 30px;
+background: blue;
+display: inline-block;
+position:relative;
+top: 70px;
+margin: 3px;
+}
+
+
+.petitcarrevert{
+
+
+width: 30px;
+height: 30px;
+background: green;
+display: inline-block;
+position:relative;
+top: 70px;
+margin: 3px;
+}
+
+
+.petitcarrerouge{
+
+    width: 30px;
+    height: 30px;
+    background: red;
+    display: inline-block;
+    position:relative;
+    top: 70px;
+    margin: 3px;
+    }
+
+
+
+
+
+
+
+ .grandcarrebleu
+
+ {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    display: inline-block;
+    position:absolute;
+    top: 150px;
+    left: 300px;
+    
+
+ }
+
+ .grandcarrerose5 
+
+ {
+    width: 150px;
+    height: 150px;
+    background: plum;
+    display: inline-block;
+    position:absolute;
+    bottom: 50%;
+    left: 50%;
+   
+ }
+
+
+.EXO-4{
+
+    position: relative;
+}
+
+ .grandcarrebleu2
+
+ {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    
+ }
+
+
+ .grandcerclebleu
+
+ {
+    width: 150px;
+    height: 150px;
+    background: rgba(21, 0, 255, 0.5);
+    border-radius: 50%;
+    position: absolute ;
+    left: 120px;
+    top: 75px;
+    
+ }
+
+ .grandcerclevert{
+
+    width: 150px;
+    height: 150px;
+    background: rgba(0, 255, 76, 0.5);
+    border-radius: 50%;
+    position: absolute ;
+    left: 150px;
+    top: 150px;
+ }
+ 
+
+ .grandcerclerouge
+
+ {
+    width: 150px;
+    height: 150px;
+    background: rgba(255, 0, 34, 0.5);
+    border-radius: 50%;
+    position: absolute ;
+    left: 200px;
+    top: 75px;
+
+ }
+
+ .grandcarrevert2
+
+ {
+    width: 150px;
+    height: 150px;
+    background: rgba(9, 255, 0);
+    position: absolute ;
+    left: 300px;
+    top: 150px;
+
+ }
+
+
+ .grandcarrerouge2
+
+ {
+    width: 150px;
+    height: 150px;
+    background: red;
+    position: absolute ;
+    left:450px;
+    top:0px;
+
+ }
+
+ .grandcarreblanc
+
+ {
+    width: 150px;
+    height: 150px;
+    position: absolute ;
+    left:450px;
+    top:150px;
+
+ }
+
+ li
+
+ {
+
+    color: red;
+ }
+
+ ol
+ {
+    list-style-type: none;
+ }
+
+.EXO-5{
+
+    position:relative
+}
+
+
+.grandrectanglerouge1
+{
+    width: 150px;
+    height: 200px;
+    position: absolute ;
+    background: red;
+    top: 150px;
+    left: 450px;
+    
+    
+}
+
+.grandrectanglebleu1 
+
+{
+    width:150px;
+    height:300px;
+    position:absolute;
+    background: blue;
+    top: 350px;
+    left: 450px;
+}
+
+.grandrectanglebleu2
+
+{
+
+    width: 150px;
+    height: 420px;
+    position:absolute;
+    background:rgb(0, 140, 255);
+    bottom: -650px;
+    left: 300px;
+    
+    
+
+}
+
+.grandcerclebleu3
+
+{
+    width: 150px;
+    height: 150px;
+    background: rgb(0, 140, 255);
+    border-radius: 50%;
+    position: absolute ;
+    left: 300px;
+    top:150px;
+}
+
+
+.grandcerclerose
+
+{
+    width: 150px;
+    height: 150px;
+    background: lightpink;
+    border-radius: 50%;
+    position: absolute ;
+    left: 220px;
+    top:350px;
+}
+
+.grandcerclerose2
+
+{
+    width: 150px;
+    height: 150px;
+    background: rgb(199, 192, 193);
+    border-radius: 80%;
+    position: absolute ;
+    left: 110px;
+    top:498px;
+}
+
+.grandcarrevert4
+
+
+{
+    width: 150px;
+    height: 150px;
+    background: rgb(30, 109, 55);
+    position:absolute;
+    left: 150px;
+    top:500px;
+}
+
+.grandcerclerouge2
+
+{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 80%;
+    position: absolute ;
+    left: 60px;
+    top:420px;
+    
+}
+
+
+p, h3
+
+{
+    color:white
+}
+
+h3
+
+{
+    text-align: center;
+}
